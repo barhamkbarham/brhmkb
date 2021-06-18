@@ -51,11 +51,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=BarhamBasha&show_icons=true&count_private=true&hide_border=true" align="left" />
 
 </td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
 <br/>  
 
 
@@ -74,6 +69,4 @@
                 />
             </a>
 <br />
-
-----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
