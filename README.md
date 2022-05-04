@@ -62,11 +62,5 @@
                     align="left"
                 />
             </a>
-            <a href="https://www.buymeacoffee.com/BarhamBasha" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="left"
-                />
-            </a>
 <br />
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
